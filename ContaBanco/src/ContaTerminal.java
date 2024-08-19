@@ -28,6 +28,7 @@ import java.util.Scanner;
             
             // Fechando o Scanner
             scanner.close();
+            
         }
     }
     
